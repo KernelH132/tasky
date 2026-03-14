@@ -1,3 +1,3 @@
-module github.com/KernelH132/cli-todo-app
+module github.com/KernelH132/tasky
 
 go 1.25.0
